@@ -12,10 +12,11 @@ spring:
 logging:
   level:
     root: warn
-    com.lishuai: info
+    com.lrm: info
   file: log/blog-pro.log
-server:
-  port: 8081
+
+
+
 
 
 

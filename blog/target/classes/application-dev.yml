@@ -12,7 +12,7 @@ spring:
 logging:
   level:
     root: info
-    com.lishuai: debug
+    com.lrm: debug
   file: log/blog-dev.log
 
 
