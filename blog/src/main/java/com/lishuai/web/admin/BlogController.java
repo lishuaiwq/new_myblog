@@ -77,7 +77,6 @@ public class BlogController {
     }
 
 
-
     @PostMapping("/blogs")
     public String post(Blog blog, RedirectAttributes attributes, HttpSession session) {
         blog.setUser((User) session.getAttribute("user"));
@@ -105,7 +104,4 @@ public class BlogController {
         attributes.addFlashAttribute("message", "删除成功");
         return REDIRECT_LIST;
     }
-
-
-
 }

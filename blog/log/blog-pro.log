@@ -1,0 +1,6 @@
+2019-01-23 11:04:51.859  INFO 832 --- [restartedMain] com.lishuai.BlogApplication              : Starting BlogApplication on PCQUNAR-O7LJDR3 with PID 832 (E:\JAVA\new_myblog\blog\target\classes started by shui.li in E:\JAVA\new_myblog\blog)
+2019-01-23 11:04:51.861  INFO 832 --- [restartedMain] com.lishuai.BlogApplication              : The following profiles are active: pro
+2019-01-23 11:04:59.606  INFO 832 --- [restartedMain] com.lishuai.BlogApplication              : Started BlogApplication in 8.518 seconds (JVM running for 9.79)
+2019-01-23 11:09:56.839  INFO 8504 --- [restartedMain] com.lishuai.BlogApplication              : Starting BlogApplication on PCQUNAR-O7LJDR3 with PID 8504 (E:\JAVA\new_myblog\blog\target\classes started by shui.li in E:\JAVA\new_myblog\blog)
+2019-01-23 11:09:56.841  INFO 8504 --- [restartedMain] com.lishuai.BlogApplication              : The following profiles are active: pro
+2019-01-23 11:10:04.819  INFO 8504 --- [restartedMain] com.lishuai.BlogApplication              : Started BlogApplication in 8.53 seconds (JVM running for 9.811)
